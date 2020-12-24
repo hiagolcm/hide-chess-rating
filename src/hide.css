@@ -1,0 +1,51 @@
+.stat-section-user-rating,
+.stat-section-stats-content,
+.user-tagline-popover-rating,
+.user-popover-ratings,
+.user-tagline-rating,
+.live-game-start-component span span,
+.live-game-start-component span:last-child,
+.game-over-rating-rating,
+.live-game-over-component span:last-child,
+.main-stats,
+.user-rating {
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.main-chart {
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
+}
+
+.stat-section-chart {
+  display: none;
+}
+
+.hide-chess-rating-show .stat-section-user-rating,
+.hide-chess-rating-show .stat-section-stats-content,
+.hide-chess-rating-show .user-tagline-popover-rating,
+.hide-chess-rating-show .user-popover-ratings,
+.hide-chess-rating-show .user-tagline-rating,
+.hide-chess-rating-show .live-game-start-component span span,
+.hide-chess-rating-show .live-game-start-component span:last-child,
+.hide-chess-rating-show .game-over-rating-rating,
+.hide-chess-rating-show .live-game-over-component span:last-child,
+.hide-chess-rating-show .main-stats,
+.hide-chess-rating-show .user-rating {
+  -webkit-filter: blur(0);
+  -moz-filter: blur(0);
+  -o-filter: blur(0);
+  -ms-filter: blur(0);
+  filter: blur(0);
+}
+
+.hide-chess-rating-show .stat-section-chart {
+  display: block;
+}
