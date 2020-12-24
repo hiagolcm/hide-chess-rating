@@ -1,0 +1,1 @@
+# hide-chess-rating
