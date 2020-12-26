@@ -1,6 +1,6 @@
 {
     "name": "Hide Chess Rating",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Hides player ratings on chess.com",
     "permissions": [
         "activeTab",

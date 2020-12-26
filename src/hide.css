@@ -38,7 +38,8 @@
 .hide-chess-rating-show .game-over-rating-rating,
 .hide-chess-rating-show .live-game-over-component span:last-child,
 .hide-chess-rating-show .main-stats,
-.hide-chess-rating-show .user-rating {
+.hide-chess-rating-show .user-rating,
+.hide-chess-rating-show .main-chart {
   -webkit-filter: blur(0);
   -moz-filter: blur(0);
   -o-filter: blur(0);
